@@ -1,0 +1,7 @@
+% item a
+declare P1 P10 P100
+P1 = 2
+P10 = P1*P1*P1*P1*P1*P1*P1*P1*P1*P1
+P100 = P10*P10*P10*P10*P10*P10*P10*P10*P10*P10
+
+{Browse P100}
